@@ -69,10 +69,10 @@ HTML & CSS 熟悉之后可以学习 Javascript，从基本的 DOM 结构开始�
 
 #### 参考资料
 
-**[Google's Python Class](https://developers.google.com/edu/python/)** 两天速成 python，语法真的很简单。
+* **[Google's Python Class](https://developers.google.com/edu/python/)** 两天速成 python，语法真的很简单。
 
-**[Django Book 中文版](http://djangobook.py3k.cn/2.0/)**  
-**[Django Book 英文版](http://www.djangobook.com/en/2.0/index.html)**
+* **[Django Book 中文版](http://djangobook.py3k.cn/2.0/)**  
+* **[Django Book 英文版](http://www.djangobook.com/en/2.0/index.html)**
 
 只需要前十章看完（或者只需要前七章）就足够可以完成本次的任务了。
 当然 Django Book 只介绍了web开发最基础的部分，如果使用中有什么问题可以联系[我](mailto:xindervella@gmail.com)或者[姚育华](mailto:goclisyyh@gmail.com)，或者在 [Django 主页](https://www.djangoproject.com/) 查相关文档。
