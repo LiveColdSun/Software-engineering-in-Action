@@ -39,7 +39,7 @@ HTML & CSS 熟悉之后可以学习 Javascript，从基本的 DOM 结构开始�
 
 *  **[Ajax](http://en.wikipedia.org/wiki/Ajax_(programming\))**，一种支持异步请求的技术，用于创建更好更快以及交互性更强的 Web 应用的技术。
 
-我觉得以上就是足够让我短时间内搭建一个还不错的 web 应用最快的方法。
+我觉得以上就是足够让我们短时间内搭建一个还不错的 web 应用最快的方法。
 
 浏览器的兼容性是前端开发者必须要重视的问题，同样的代码在 Chrome, FireFox, Safari, IE 下可能会有不同的表现。不过这个问题这次可以先不去考虑，以上提到的这些技术对传统的 IE ( 低于 IE 9 ) 并不能很好的支持，调试最好使用 Chrome/FireFox/Safari 或者 搜狗/360浏览器的 极速 模式。
 
@@ -82,13 +82,13 @@ HTML & CSS 熟悉之后可以学习 Javascript，从基本的 DOM 结构开始�
 
 python 使用 2.7.5 ( 2.6.x 以上版本均可，不要尝试使用 python 3.x， 目前 django 还不支持 python 3.x)
 
-##### windows 
+##### Windows 
 
 * [Python 2.7.5 Windows Installer](http://www.python.org/ftp/python/2.7.5/python-2.7.5.msi) (Windows binary -- does not include source)
 * [Python 2.7.5 Windows X86-64 Installer](http://www.python.org/ftp/python/2.7.5/python-2.7.5.amd64.msi) (Windows AMD64 / Intel 64 / X86-64 binary -- does not include source)
 
 
-下载完成后打开CMD 输入 python 后显示类似如下即安装完成。
+下载完成后打开CMD 输入 python 后显示类似如下即安装完成，可能需要先将 python 安装目录添加进环境变量。
 
 ```python
 Python 2.7.5 (default, Sep 18 2013, 13:30:00) 
